@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'car_http_service.dart';
-import 'car_model.dart';
+import '../data/car_http_service.dart';
+import '../model/car_model.dart';
 
 class CarProvider with ChangeNotifier {
   List<CarsModel> _cars = [];

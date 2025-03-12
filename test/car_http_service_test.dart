@@ -1,4 +1,4 @@
-import 'package:flutterservices/car_http_service.dart';
+import 'package:flutterservices/data/car_http_service.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
